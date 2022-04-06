@@ -1,1 +1,7 @@
-# typescript-webscraping-template
+# Typescript Webscraping Template 🏗️
+
+My webscraping template.
+
+Built with:
+- TypeScript
+- Puppeteer
